@@ -19,9 +19,9 @@ const Navbar = () => {
             <a className="navbar-brand" href="#">Weather Solomon</a>
           </div>
           <div className="col-md-6 text-end">
-            <p className="lead text-white fw-bold m-0">
+            <span className=" text-white fw-bold m-0">
               {currentTime.toLocaleTimeString()} | {currentTime.toLocaleDateString()}
-            </p>
+            </span>
           </div>
         </div>
       </div>
