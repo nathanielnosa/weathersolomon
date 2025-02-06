@@ -16,7 +16,7 @@ const Navbar = () => {
       <div className="container">
         <div className="row justify-content-between w-100">
           <div className="col-md-6">
-            <a className="navbar-brand" href="#">Weather App</a>
+            <a className="navbar-brand" href="#">Weather Solomon</a>
           </div>
           <div className="col-md-6 text-end">
             <p className="lead text-white fw-bold m-0">
