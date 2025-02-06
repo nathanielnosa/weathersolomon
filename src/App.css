@@ -1,0 +1,44 @@
+/* .App {
+  min-height: 100vh;
+  background-color: #f8f9fa;
+}
+
+.weather-icon {
+  width: 150px;
+  height: auto;
+}
+
+.hourly-scroll {
+  max-height: 500px;
+  overflow-y: auto;
+  padding-right: 10px;
+}
+
+/* Scrollbar styling */
+/* .hourly-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+
+.hourly-scroll::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 4px;
+}
+
+.hourly-scroll::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 4px;
+}
+
+.hourly-scroll::-webkit-scrollbar-thumb:hover {
+  background: #555;
+}
+
+@media (max-width: 768px) {
+  .weather-icon {
+    width: 100px;
+  }
+  
+  .display-2 {
+    font-size: 3rem;
+  }
+}  */
