@@ -14,7 +14,7 @@ const Navbar = () => {
   return (
     <nav className="navbar navbar-expand-sm navbar-dark bg-dark">
       <div className="container">
-        <div className="row justify-content-between w-100">
+        <div className="row align-items-center justify-content-between w-100">
           <div className="col-md-6">
             <a className="navbar-brand" href="#">Weather Solomon</a>
           </div>
